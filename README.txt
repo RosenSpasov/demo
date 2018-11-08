@@ -1,3 +1,3 @@
-Demo Project
+# Demo Project
 
-Read me
+## Read me
